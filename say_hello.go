@@ -1,5 +1,5 @@
 package golang_mo
 
 func SayHello() string {
-	return "hello world"
+	return "hello world v3"
 }
